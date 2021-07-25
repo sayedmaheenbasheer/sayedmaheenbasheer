@@ -11,6 +11,10 @@ I mostly focus on Python, Javascript, Deep Learning, Data Science, Mathematics a
 - Nov' 18: I completed my Undergraduate in Electronics & Electrical Engineering 
 - Jan' 19: I completed DeepLearning Nano Degree from Udacity
 - March' 21: I quit the bank job to become a fulltime software developer
+
+I have work experience and certification in MEP/HVAC field and Industrial Automation Field
+I have knowledge about PLC, HMI, SCADA, Autocad Electrical, Autodesk Revit etc
+
   
 For more updates, please visit my [personal webpage](https://sayedmaheenbasheer.github.io/). 
 <!---
