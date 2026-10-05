@@ -1,7 +1,8 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I'm [Sayed Maheen Basheer](https://sayedmaheenbasheer.github.io/)
+I'm Sayed Maheen Basheer
+<!--(https://sayedmaheenbasheer.github.io/)-->
   
 For more updates, please visit my [personal webpage](https://sayedmaheen.com/). 
 <!---
